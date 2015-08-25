@@ -1,0 +1,7 @@
+{
+    "name": "ckeditor/syntaxhighlight",
+    "type": "ckeditor-plugin",
+    "require": {
+        "ckeditor/ckeditor-composer-installer": "dev-master"
+    }
+}
